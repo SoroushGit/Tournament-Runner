@@ -4,8 +4,10 @@
 
 ### :gear: Get started
 
-To run a tournament, put list of the games in `Games.txt`
-
+To run a tournament, put list of the games in `Games.txt` and then, execute `Run.sh` with
+```
+./Run.sh
+```
 -------------------------------------------
 
 ### Note: This Repository uses [HoleAnalyzer](https://github.com/RCSS-IR/HoleAnalyzer) for analyzing Holes&Clashes.
