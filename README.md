@@ -23,5 +23,7 @@ Thanks go to [Nader Zare](https://github.com/naderzare), [Alireza Sadraii](https
 
 # :heavy_exclamation_mark: Issues
 If you have any problem, please send an Email to mazloomsoroush@gmail.com 
+
 OR
+
 go to https://github.com/SoroushGit/Tournament-Runner and open an issue.
