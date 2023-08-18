@@ -18,3 +18,8 @@ Also you can see Holes and Clashes in the terminal when the games are finished.
 
 ### Note: This Repository uses [HoleAnalyzer](https://github.com/RCSS-IR/HoleAnalyzer) for analyzing Holes&Clashes.
 Thanks go to [Nader Zare](https://github.com/naderzare), [Alireza Sadraii](https://github.com/sadraiiali), [Omid Amini](https://github.com/mroa4) and [Aref Sayareh](https://github.com/Arefsa78) for providing HoleAnalyzer.
+
+--------------------------------------------
+
+# :heavy_exclamation_mark: Issues
+If you have any problem, please send an Email to mazloomsoroush@gmail.com 
