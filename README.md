@@ -4,6 +4,7 @@
 
 ### :gear: Get started
 
+First you should put all the binaries in `Bins` directory. All binaries must contain `localStartAll` and `start` script.
 To run a tournament, put list of the games in `Games.txt` and then, execute `Run.sh` with
 ```
 ./Run.sh
