@@ -10,6 +10,8 @@ To run a tournament, put list of the games in `Games.txt` and then, execute `Run
 ```
 ./Run.sh
 ```
+After the games are finished, you can see logs (.rcg and .rcl) files compressed to .tar.gz in Logs directory. 
+
 -------------------------------------------
 
 ### Note: This Repository uses [HoleAnalyzer](https://github.com/RCSS-IR/HoleAnalyzer) for analyzing Holes&Clashes.
