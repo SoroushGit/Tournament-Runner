@@ -1,5 +1,4 @@
 # Tournament Runner
--------------------------------------------
 ### You can use Tournament Runner to run Soccer Simulation 2D tournaments.
 -------------------------------------------
 
