@@ -22,6 +22,8 @@ A test game is a short 300 Cycle game against Helios2023. It has ONLY one half a
 
 You can run it with `./TestTeams.sh`
 
+Note that for test games, you should put the teams list in `TestGames.txt` and Helios2023 should be available in Bins directory.   
+
 -------------------------------------------
 
 ### :green_book: Note: This Repository uses [HoleAnalyzer](https://github.com/RCSS-IR/HoleAnalyzer) for analyzing Holes&Clashes.
