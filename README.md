@@ -12,7 +12,7 @@ To run a tournament, put the list of the games in `Games.txt` and then, execute 
 ```
 After the games are finished, you can see logs (.rcg and .rcl files) compressed to .tar.gz in Logs directory. 
 
-Also you can see Holes and Clashes in the terminal when the games are done.
+Also, you can see Holes and Clashes table in the terminal when the games are done.
 
 -------------------------------------------
 
