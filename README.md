@@ -6,13 +6,13 @@
 
 First you should put all the binaries in `Bins` directory. All binaries must contain `localStartAll` and `start` script.
 
-To run a tournament, put list of the games in `Games.txt` and then, execute `Run.sh` with
+To run a tournament, put the list of the games in `Games.txt` and then, execute `Run.sh` with
 ```
 ./Run.sh
 ```
 After the games are finished, you can see logs (.rcg and .rcl) files compressed to .tar.gz in Logs directory. 
 
-Also you can see Holes and Clashes in the terminal when the games are finished.
+Also you can see Holes and Clashes in the terminal when the games are done.
 
 -------------------------------------------
 
