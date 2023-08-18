@@ -18,7 +18,7 @@ Also you can see Holes and Clashes in the terminal when the games are done.
 
 ### :hash: Test Game
 
-A test game is a short 300 Cycle game against Helios2023. It has ONLY one half and no penalty or extra time.
+A test game is a short 300 Cycle game against Helios2023. It ONLY has one half and no penalty or extra time.
 
 You can run it with `./TestTeams.sh`
 
@@ -32,7 +32,7 @@ Thanks go to [Nader Zare](https://github.com/naderzare), [Alireza Sadraii](https
 --------------------------------------------
 
 # :heavy_exclamation_mark: Issues
-If you have any problem, please send an Email to mazloomsoroush@gmail.com 
+If you have any problem, do not hesitate to contact me via Email: mazloomsoroush@gmail.com 
 
 OR
 
