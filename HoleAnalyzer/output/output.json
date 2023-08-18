@@ -1,0 +1,58 @@
+{
+    "teams": [
+        {
+            "team_name": "EMPEROR",
+            "games": 1,
+            "games_w_holes": 1,
+            "games_w_clashes": 1,
+            "hole": 2,
+            "clash": 1,
+            "all_hole": 3,
+            "avg_hole": 2.0,
+            "avg_clash": 1.0
+        },
+        {
+            "team_name": "HELIOS2022",
+            "games": 1,
+            "games_w_holes": 1,
+            "games_w_clashes": 1,
+            "hole": 1,
+            "clash": 1,
+            "all_hole": 2,
+            "avg_hole": 1.0,
+            "avg_clash": 1.0
+        },
+        {
+            "team_name": "HELIOS2023",
+            "games": 3,
+            "games_w_holes": 0,
+            "games_w_clashes": 0,
+            "hole": 0,
+            "clash": 0,
+            "all_hole": 0,
+            "avg_hole": 0.0,
+            "avg_clash": 0.0
+        },
+        {
+            "team_name": "YuShan2023",
+            "games": 1,
+            "games_w_holes": 0,
+            "games_w_clashes": 0,
+            "hole": 0,
+            "clash": 0,
+            "all_hole": 0,
+            "avg_hole": 0.0,
+            "avg_clash": 0.0
+        }
+    ],
+    "total": {
+        "games": 6,
+        "games_w_holes": 2,
+        "games_w_clashes": 2,
+        "hole": 3,
+        "clash": 2,
+        "all_hole": 5,
+        "avg_hole": 0.5,
+        "avg_clash": 0.33
+    }
+}
