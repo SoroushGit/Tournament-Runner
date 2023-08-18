@@ -2,6 +2,7 @@
 -------------------------------------------
 ### You can use Tournament Runner to run Soccer Simulation 2D tournaments.
 
+To run a tournament, put list of the games in `Games.txt`
 -------------------------------------------
 
 ### Note: This Repository uses [HoleAnalyzer](https://github.com/RCSS-IR/HoleAnalyzer) for analyzing Holes&Clashes.
